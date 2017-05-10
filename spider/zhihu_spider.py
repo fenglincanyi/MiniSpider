@@ -3,11 +3,11 @@ import requests
 import json
 
 param = {
-'action':'pull',
-'before_id':1000,
-'limit':20,
-'action_feed':True,
-'session_token':'9743215cbfdec3dd94ce1686'
+    'action': 'pull',
+    'before_id': 1000,
+    'limit': 20,
+    'action_feed': True,
+    'session_token': '9743215cbfdec3dd94ce1686'
 }
 
 header = {
@@ -29,5 +29,5 @@ header = {
 
 
 r = requests.get("https://api.zhihu.com/topstory", params=param, headers=header, verify=False)
-data = r.json()[u'data'] # python 获取 data 数据部分
-print json.dumps(data) # python 对象转 json
+data = r.json()[u'data']  # python 获取 data 数据部分
+print json.dumps(data)  # python 对象转 json

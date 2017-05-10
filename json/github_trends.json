@@ -1,0 +1,752 @@
+[
+  {
+    "href": "/jwasham/google-interview-university",
+    "link": "https://github.com/jwasham/google-interview-university",
+    "name": "google-interview-university",
+    "contributors": [
+      {
+        "name": "jwasham",
+        "avatar": "https://avatars3.githubusercontent.com/u/3771963?v=3&s=40"
+      },
+      {
+        "name": "aleen42",
+        "avatar": "https://avatars0.githubusercontent.com/u/9573300?v=3&s=40"
+      },
+      {
+        "name": "antonia0912",
+        "avatar": "https://avatars2.githubusercontent.com/u/17244623?v=3&s=40"
+      },
+      {
+        "name": "Carmezim",
+        "avatar": "https://avatars2.githubusercontent.com/u/16518410?v=3&s=40"
+      },
+      {
+        "name": "sqrthree",
+        "avatar": "https://avatars2.githubusercontent.com/u/8622362?v=3&s=40"
+      }
+    ],
+    "owner": "jwasham",
+    "meta": "19,226 stars this month",
+    "des": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "yarn",
+    "language": "JavaScript",
+    "meta": "18,206 stars this month",
+    "des": "📦🐈 Fast, reliable, and secure dependency management.",
+    "href": "/yarnpkg/yarn",
+    "link": "https://github.com/yarnpkg/yarn",
+    "contributors": [
+      {
+        "name": "kittens",
+        "avatar": "https://avatars2.githubusercontent.com/u/853712?v=3&s=40"
+      },
+      {
+        "name": "bestander",
+        "avatar": "https://avatars2.githubusercontent.com/u/2121048?v=3&s=40"
+      },
+      {
+        "name": "Daniel15",
+        "avatar": "https://avatars0.githubusercontent.com/u/91933?v=3&s=40"
+      },
+      {
+        "name": "zertosh",
+        "avatar": "https://avatars2.githubusercontent.com/u/830952?v=3&s=40"
+      },
+      {
+        "name": "cpojer",
+        "avatar": "https://avatars1.githubusercontent.com/u/13352?v=3&s=40"
+      }
+    ],
+    "owner": "yarnpkg"
+  },
+  {
+    "name": "og-aws",
+    "language": "Shell",
+    "meta": "13,999 stars this month",
+    "des": "📙 Amazon Web Services — a practical guide",
+    "href": "/open-guides/og-aws",
+    "link": "https://github.com/open-guides/og-aws",
+    "contributors": [
+      {
+        "name": "jlevy",
+        "avatar": "https://avatars1.githubusercontent.com/u/2058167?v=3&s=40"
+      },
+      {
+        "name": "ThanosBaskous",
+        "avatar": "https://avatars3.githubusercontent.com/u/1161523?v=3&s=40"
+      },
+      {
+        "name": "max-zanko",
+        "avatar": "https://avatars0.githubusercontent.com/u/10171129?v=3&s=40"
+      },
+      {
+        "name": "lynnlangit",
+        "avatar": "https://avatars1.githubusercontent.com/u/1609620?v=3&s=40"
+      },
+      {
+        "name": "artemnikitin",
+        "avatar": "https://avatars0.githubusercontent.com/u/2201424?v=3&s=40"
+      }
+    ],
+    "owner": "open-guides"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "language": "JavaScript",
+    "meta": "12,588 stars this month",
+    "des": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+    "href": "/FreeCodeCamp/FreeCodeCamp",
+    "link": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "contributors": [
+      {
+        "name": "QuincyLarson",
+        "avatar": "https://avatars1.githubusercontent.com/u/985197?v=3&s=40"
+      },
+      {
+        "name": "BerkeleyTrue",
+        "avatar": "https://avatars1.githubusercontent.com/u/6775919?v=3&s=40"
+      },
+      {
+        "name": "sahat",
+        "avatar": "https://avatars3.githubusercontent.com/u/544954?v=3&s=40"
+      },
+      {
+        "name": "terakilobyte",
+        "avatar": "https://avatars3.githubusercontent.com/u/1911390?v=3&s=40"
+      },
+      {
+        "name": "ltegman",
+        "avatar": "https://avatars3.githubusercontent.com/u/1381313?v=3&s=40"
+      }
+    ],
+    "owner": "FreeCodeCamp"
+  },
+  {
+    "name": "tesseract.js",
+    "language": "JavaScript",
+    "meta": "10,071 stars this month",
+    "des": "Pure Javascript OCR for 62 Languages 📖🎉🖥",
+    "href": "/naptha/tesseract.js",
+    "link": "https://github.com/naptha/tesseract.js",
+    "contributors": [
+      {
+        "name": "bijection",
+        "avatar": "https://avatars0.githubusercontent.com/u/8824442?v=3&s=40"
+      },
+      {
+        "name": "antimatter15",
+        "avatar": "https://avatars1.githubusercontent.com/u/30054?v=3&s=40"
+      },
+      {
+        "name": "zzarcon",
+        "avatar": "https://avatars1.githubusercontent.com/u/1194982?v=3&s=40"
+      },
+      {
+        "name": "rowasc",
+        "avatar": "https://avatars3.githubusercontent.com/u/2434401?v=3&s=40"
+      },
+      {
+        "name": "jayathungek",
+        "avatar": "https://avatars1.githubusercontent.com/u/16686183?v=3&s=40"
+      }
+    ],
+    "owner": "naptha"
+  },
+  {
+    "name": "Deep-Learning-Papers-Reading-Roadmap",
+    "language": "Python",
+    "meta": "7,050 stars this month",
+    "des": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "href": "/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+    "link": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+    "contributors": [
+      {
+        "name": "songrotek",
+        "avatar": "https://avatars1.githubusercontent.com/u/3880963?v=3&s=40"
+      },
+      {
+        "name": "ray6080",
+        "avatar": "https://avatars3.githubusercontent.com/u/3192330?v=3&s=40"
+      },
+      {
+        "name": "Hrant-Khachatrian",
+        "avatar": "https://avatars0.githubusercontent.com/u/933808?v=3&s=40"
+      },
+      {
+        "name": "mjanv",
+        "avatar": "https://avatars0.githubusercontent.com/u/5563461?v=3&s=40"
+      },
+      {
+        "name": "arthurazs",
+        "avatar": "https://avatars0.githubusercontent.com/u/3771055?v=3&s=40"
+      }
+    ],
+    "owner": "songrotek"
+  },
+  {
+    "name": "js-stack-from-scratch",
+    "language": "JavaScript",
+    "meta": "7,082 stars this month",
+    "des": "Step-by-step tutorial to build a modern JavaScript stack from scratch",
+    "href": "/verekia/js-stack-from-scratch",
+    "link": "https://github.com/verekia/js-stack-from-scratch",
+    "contributors": [
+      {
+        "name": "verekia",
+        "avatar": "https://avatars0.githubusercontent.com/u/522007?v=3&s=40"
+      },
+      {
+        "name": "saniko",
+        "avatar": "https://avatars2.githubusercontent.com/u/1344142?v=3&s=40"
+      },
+      {
+        "name": "fbertone",
+        "avatar": "https://avatars2.githubusercontent.com/u/13522559?v=3&s=40"
+      },
+      {
+        "name": "radarhere",
+        "avatar": "https://avatars2.githubusercontent.com/u/3112309?v=3&s=40"
+      },
+      {
+        "name": "ug02fast",
+        "avatar": "https://avatars0.githubusercontent.com/u/5507707?v=3&s=40"
+      }
+    ],
+    "owner": "verekia"
+  },
+  {
+    "name": "next.js",
+    "language": "JavaScript",
+    "meta": "4,998 stars this month",
+    "des": "A minimalistic framework for server-rendered React applications",
+    "href": "/zeit/next.js",
+    "link": "https://github.com/zeit/next.js",
+    "contributors": [
+      {
+        "name": "nkzawa",
+        "avatar": "https://avatars2.githubusercontent.com/u/775227?v=3&s=40"
+      },
+      {
+        "name": "impronunciable",
+        "avatar": "https://avatars1.githubusercontent.com/u/165799?v=3&s=40"
+      },
+      {
+        "name": "rauchg",
+        "avatar": "https://avatars2.githubusercontent.com/u/13041?v=3&s=40"
+      },
+      {
+        "name": "leo",
+        "avatar": "https://avatars2.githubusercontent.com/u/6170607?v=3&s=40"
+      },
+      {
+        "name": "timoxley",
+        "avatar": "https://avatars1.githubusercontent.com/u/43438?v=3&s=40"
+      }
+    ],
+    "owner": "zeit"
+  },
+  {
+    "name": "vue",
+    "language": "JavaScript",
+    "meta": "3,779 stars this month",
+    "des": "Simple yet powerful library for building modern web interfaces.",
+    "href": "/vuejs/vue",
+    "link": "https://github.com/vuejs/vue",
+    "contributors": [
+      {
+        "name": "yyx990803",
+        "avatar": "https://avatars1.githubusercontent.com/u/499550?v=3&s=40"
+      },
+      {
+        "name": "kazupon",
+        "avatar": "https://avatars3.githubusercontent.com/u/72989?v=3&s=40"
+      },
+      {
+        "name": "blake-newman",
+        "avatar": "https://avatars1.githubusercontent.com/u/7272211?v=3&s=40"
+      },
+      {
+        "name": "Jinjiang",
+        "avatar": "https://avatars0.githubusercontent.com/u/206848?v=3&s=40"
+      },
+      {
+        "name": "phanan",
+        "avatar": "https://avatars2.githubusercontent.com/u/8056274?v=3&s=40"
+      }
+    ],
+    "owner": "vuejs"
+  },
+  {
+    "href": "/noffle/art-of-readme",
+    "link": "https://github.com/noffle/art-of-readme",
+    "name": "art-of-readme",
+    "contributors": [
+      {
+        "name": "noffle",
+        "avatar": "https://avatars3.githubusercontent.com/u/489362?v=3&s=40"
+      },
+      {
+        "name": "sept08",
+        "avatar": "https://avatars3.githubusercontent.com/u/4474619?v=3&s=40"
+      },
+      {
+        "name": "BrettDong",
+        "avatar": "https://avatars2.githubusercontent.com/u/21075502?v=3&s=40"
+      },
+      {
+        "name": "Alex-fun",
+        "avatar": "https://avatars3.githubusercontent.com/u/6087438?v=3&s=40"
+      },
+      {
+        "name": "StevenMaude",
+        "avatar": "https://avatars0.githubusercontent.com/u/3818079?v=3&s=40"
+      }
+    ],
+    "owner": "noffle",
+    "meta": "3,932 stars this month",
+    "des": "💌 Learn the art of writing quality READMEs."
+  },
+  {
+    "name": "Mirai-Source-Code",
+    "language": "C",
+    "meta": "3,166 stars this month",
+    "des": "Leaked Mirai Source Code for Research/IoC Development Purposes",
+    "href": "/jgamblin/Mirai-Source-Code",
+    "link": "https://github.com/jgamblin/Mirai-Source-Code",
+    "contributors": [
+      {
+        "name": "jgamblin",
+        "avatar": "https://avatars3.githubusercontent.com/u/8428124?v=3&s=40"
+      },
+      {
+        "name": "samrocketman",
+        "avatar": "https://avatars1.githubusercontent.com/u/875669?v=3&s=40"
+      }
+    ],
+    "owner": "jgamblin"
+  },
+  {
+    "name": "tensorflow",
+    "language": "C++",
+    "meta": "3,000 stars this month",
+    "des": "Computation using data flow graphs for scalable machine learning",
+    "href": "/tensorflow/tensorflow",
+    "link": "https://github.com/tensorflow/tensorflow",
+    "contributors": [
+      {
+        "name": "tensorflower-gardener",
+        "avatar": "https://avatars2.githubusercontent.com/u/17151892?v=3&s=40"
+      },
+      {
+        "name": "vrv",
+        "avatar": "https://avatars0.githubusercontent.com/u/463737?v=3&s=40"
+      },
+      {
+        "name": "ilblackdragon",
+        "avatar": "https://avatars2.githubusercontent.com/u/175486?v=3&s=40"
+      },
+      {
+        "name": "martinwicke",
+        "avatar": "https://avatars2.githubusercontent.com/u/577277?v=3&s=40"
+      },
+      {
+        "name": "caisq",
+        "avatar": "https://avatars3.githubusercontent.com/u/16824702?v=3&s=40"
+      }
+    ],
+    "owner": "tensorflow"
+  },
+  {
+    "href": "/engineerapart/TheRemoteFreelancer",
+    "link": "https://github.com/engineerapart/TheRemoteFreelancer",
+    "name": "TheRemoteFreelancer",
+    "contributors": [
+      {
+        "name": "CodinRonan",
+        "avatar": "https://avatars2.githubusercontent.com/u/13020457?v=3&s=40"
+      },
+      {
+        "name": "droidlabour",
+        "avatar": "https://avatars1.githubusercontent.com/u/1991767?v=3&s=40"
+      },
+      {
+        "name": "prestonw",
+        "avatar": "https://avatars2.githubusercontent.com/u/5903623?v=3&s=40"
+      },
+      {
+        "name": "zachary-russell",
+        "avatar": "https://avatars2.githubusercontent.com/u/2122549?v=3&s=40"
+      },
+      {
+        "name": "Findegil",
+        "avatar": "https://avatars3.githubusercontent.com/u/6890945?v=3&s=40"
+      }
+    ],
+    "owner": "engineerapart",
+    "meta": "3,799 stars this month",
+    "des": "Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!"
+  },
+  {
+    "name": "neural-enhance",
+    "language": "Python",
+    "meta": "3,349 stars this month",
+    "des": "Super Resolution for images using deep learning.",
+    "href": "/alexjc/neural-enhance",
+    "link": "https://github.com/alexjc/neural-enhance",
+    "contributors": [
+      {
+        "name": "alexjc",
+        "avatar": "https://avatars0.githubusercontent.com/u/445208?v=3&s=40"
+      },
+      {
+        "name": "dribnet",
+        "avatar": "https://avatars3.githubusercontent.com/u/945979?v=3&s=40"
+      },
+      {
+        "name": "msfeldstein",
+        "avatar": "https://avatars1.githubusercontent.com/u/161135?v=3&s=40"
+      },
+      {
+        "name": "OndraM",
+        "avatar": "https://avatars0.githubusercontent.com/u/793041?v=3&s=40"
+      },
+      {
+        "name": "zuphilip",
+        "avatar": "https://avatars1.githubusercontent.com/u/5199995?v=3&s=40"
+      }
+    ],
+    "owner": "alexjc"
+  },
+  {
+    "name": "flv.js",
+    "language": "JavaScript",
+    "meta": "3,147 stars this month",
+    "des": "HTML5 FLV Player",
+    "href": "/Bilibili/flv.js",
+    "link": "https://github.com/Bilibili/flv.js",
+    "contributors": [
+      {
+        "name": "xqq",
+        "avatar": "https://avatars3.githubusercontent.com/u/4645762?v=3&s=40"
+      },
+      {
+        "name": "Artoria2e5",
+        "avatar": "https://avatars3.githubusercontent.com/u/6459309?v=3&s=40"
+      },
+      {
+        "name": "vinicius73",
+        "avatar": "https://avatars1.githubusercontent.com/u/1561347?v=3&s=40"
+      }
+    ],
+    "owner": "Bilibili"
+  },
+  {
+    "href": "/leereilly/games",
+    "link": "https://github.com/leereilly/games",
+    "name": "games",
+    "contributors": [
+      {
+        "name": "leereilly",
+        "avatar": "https://avatars0.githubusercontent.com/u/121322?v=3&s=40"
+      },
+      {
+        "name": "jhgrng",
+        "avatar": "https://avatars1.githubusercontent.com/u/4649289?v=3&s=40"
+      },
+      {
+        "name": "mdtrooper",
+        "avatar": "https://avatars1.githubusercontent.com/u/1285451?v=3&s=40"
+      },
+      {
+        "name": "oskar-j",
+        "avatar": "https://avatars2.githubusercontent.com/u/4602830?v=3&s=40"
+      },
+      {
+        "name": "akien-mga",
+        "avatar": "https://avatars2.githubusercontent.com/u/4701338?v=3&s=40"
+      }
+    ],
+    "owner": "leereilly",
+    "meta": "2,990 stars this month",
+    "des": "🎮 A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine."
+  },
+  {
+    "href": "/ZuzooVn/machine-learning-for-software-engineers",
+    "link": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "name": "machine-learning-for-software-engineers",
+    "contributors": [
+      {
+        "name": "ZuzooVn",
+        "avatar": "https://avatars2.githubusercontent.com/u/1429230?v=3&s=40"
+      },
+      {
+        "name": "giuliatondin",
+        "avatar": "https://avatars2.githubusercontent.com/u/23014364?v=3&s=40"
+      },
+      {
+        "name": "jwasham",
+        "avatar": "https://avatars3.githubusercontent.com/u/3771963?v=3&s=40"
+      },
+      {
+        "name": "justmarkham",
+        "avatar": "https://avatars3.githubusercontent.com/u/6509492?v=3&s=40"
+      },
+      {
+        "name": "Microsheep",
+        "avatar": "https://avatars3.githubusercontent.com/u/9551111?v=3&s=40"
+      }
+    ],
+    "owner": "ZuzooVn",
+    "meta": "2,665 stars this month",
+    "des": "A complete daily plan for studying to become a machine learning engineer."
+  },
+  {
+    "name": "freecodecamp.cn",
+    "language": "CSS",
+    "meta": "2,733 stars this month",
+    "des": "看源码请到Code，提问请到Issues，提交代码请到Pull requests，看学习心得请到Wiki。多谢合作，么么哒，^_^。",
+    "href": "/FreeCodeCampChina/freecodecamp.cn",
+    "link": "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+    "contributors": [
+      {
+        "name": "QuincyLarson",
+        "avatar": "https://avatars1.githubusercontent.com/u/985197?v=3&s=40"
+      },
+      {
+        "name": "BerkeleyTrue",
+        "avatar": "https://avatars1.githubusercontent.com/u/6775919?v=3&s=40"
+      },
+      {
+        "name": "sahat",
+        "avatar": "https://avatars3.githubusercontent.com/u/544954?v=3&s=40"
+      },
+      {
+        "name": "terakilobyte",
+        "avatar": "https://avatars3.githubusercontent.com/u/1911390?v=3&s=40"
+      },
+      {
+        "name": "huluoyang",
+        "avatar": "https://avatars2.githubusercontent.com/u/1304552?v=3&s=40"
+      }
+    ],
+    "owner": "FreeCodeCampChina"
+  },
+  {
+    "name": "Eve",
+    "language": "JavaScript",
+    "meta": "2,708 stars this month",
+    "des": "Better tools for thought",
+    "href": "/witheve/Eve",
+    "link": "https://github.com/witheve/Eve",
+    "contributors": [
+      {
+        "name": "joshuafcole",
+        "avatar": "https://avatars0.githubusercontent.com/u/313870?v=3&s=40"
+      },
+      {
+        "name": "ibdknox",
+        "avatar": "https://avatars0.githubusercontent.com/u/70036?v=3&s=40"
+      },
+      {
+        "name": "convolvatron",
+        "avatar": "https://avatars0.githubusercontent.com/u/1807982?v=3&s=40"
+      },
+      {
+        "name": "cmontella",
+        "avatar": "https://avatars2.githubusercontent.com/u/10619266?v=3&s=40"
+      },
+      {
+        "name": "shamrin",
+        "avatar": "https://avatars2.githubusercontent.com/u/510678?v=3&s=40"
+      }
+    ],
+    "owner": "witheve"
+  },
+  {
+    "name": "react",
+    "language": "JavaScript",
+    "meta": "2,413 stars this month",
+    "des": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "href": "/facebook/react",
+    "link": "https://github.com/facebook/react",
+    "contributors": [
+      {
+        "name": "zpao",
+        "avatar": "https://avatars3.githubusercontent.com/u/8445?v=3&s=40"
+      },
+      {
+        "name": "spicyj",
+        "avatar": "https://avatars1.githubusercontent.com/u/6820?v=3&s=40"
+      },
+      {
+        "name": "jimfb",
+        "avatar": "https://avatars1.githubusercontent.com/u/9595985?v=3&s=40"
+      },
+      {
+        "name": "sebmarkbage",
+        "avatar": "https://avatars0.githubusercontent.com/u/63648?v=3&s=40"
+      },
+      {
+        "name": "petehunt",
+        "avatar": "https://avatars2.githubusercontent.com/u/239742?v=3&s=40"
+      }
+    ],
+    "owner": "facebook"
+  },
+  {
+    "name": "IGListKit",
+    "language": "Objective-C",
+    "meta": "2,634 stars this month",
+    "des": "A data-driven UICollectionView framework for building fast and flexible lists.",
+    "href": "/Instagram/IGListKit",
+    "link": "https://github.com/Instagram/IGListKit",
+    "contributors": [
+      {
+        "name": "rnystrom",
+        "avatar": "https://avatars3.githubusercontent.com/u/739696?v=3&s=40"
+      },
+      {
+        "name": "valeriyvan",
+        "avatar": "https://avatars3.githubusercontent.com/u/1630974?v=3&s=40"
+      },
+      {
+        "name": "jessesquires",
+        "avatar": "https://avatars1.githubusercontent.com/u/2301114?v=3&s=40"
+      },
+      {
+        "name": "JakeLin",
+        "avatar": "https://avatars2.githubusercontent.com/u/573856?v=3&s=40"
+      },
+      {
+        "name": "zhubofei",
+        "avatar": "https://avatars1.githubusercontent.com/u/770482?v=3&s=40"
+      }
+    ],
+    "owner": "Instagram"
+  },
+  {
+    "name": "kap",
+    "language": "JavaScript",
+    "meta": "2,622 stars this month",
+    "des": "An open-source screen recorder built with web technology",
+    "href": "/wulkano/kap",
+    "link": "https://github.com/wulkano/kap",
+    "contributors": [
+      {
+        "name": "matheuss",
+        "avatar": "https://avatars3.githubusercontent.com/u/4721750?v=3&s=40"
+      },
+      {
+        "name": "CodeTheory",
+        "avatar": "https://avatars0.githubusercontent.com/u/1695613?v=3&s=40"
+      },
+      {
+        "name": "greenkeeperio-bot",
+        "avatar": "https://avatars3.githubusercontent.com/u/14790466?v=3&s=40"
+      },
+      {
+        "name": "stursby",
+        "avatar": "https://avatars0.githubusercontent.com/u/527849?v=3&s=40"
+      },
+      {
+        "name": "doot0",
+        "avatar": "https://avatars0.githubusercontent.com/u/1171137?v=3&s=40"
+      }
+    ],
+    "owner": "wulkano"
+  },
+  {
+    "name": "sanic",
+    "language": "Python",
+    "meta": "2,579 stars this month",
+    "des": "Python 3.5+ web server that's written to go fast",
+    "href": "/channelcat/sanic",
+    "link": "https://github.com/channelcat/sanic",
+    "contributors": [
+      {
+        "name": "channelcat",
+        "avatar": "https://avatars3.githubusercontent.com/u/474989?v=3&s=40"
+      },
+      {
+        "name": "jpiasetz",
+        "avatar": "https://avatars1.githubusercontent.com/u/171265?v=3&s=40"
+      },
+      {
+        "name": "seemethere",
+        "avatar": "https://avatars0.githubusercontent.com/u/1700823?v=3&s=40"
+      },
+      {
+        "name": "pcdinh",
+        "avatar": "https://avatars1.githubusercontent.com/u/42888?v=3&s=40"
+      },
+      {
+        "name": "cbess",
+        "avatar": "https://avatars2.githubusercontent.com/u/10981?v=3&s=40"
+      }
+    ],
+    "owner": "channelcat"
+  },
+  {
+    "name": "create-react-app",
+    "language": "JavaScript",
+    "meta": "2,301 stars this month",
+    "des": "Create React apps with no build configuration.",
+    "href": "/facebookincubator/create-react-app",
+    "link": "https://github.com/facebookincubator/create-react-app",
+    "contributors": [
+      {
+        "name": "gaearon",
+        "avatar": "https://avatars3.githubusercontent.com/u/810438?v=3&s=40"
+      },
+      {
+        "name": "fson",
+        "avatar": "https://avatars2.githubusercontent.com/u/497214?v=3&s=40"
+      },
+      {
+        "name": "vjeux",
+        "avatar": "https://avatars0.githubusercontent.com/u/197597?v=3&s=40"
+      },
+      {
+        "name": "mxstbr",
+        "avatar": "https://avatars0.githubusercontent.com/u/7525670?v=3&s=40"
+      },
+      {
+        "name": "lacker",
+        "avatar": "https://avatars1.githubusercontent.com/u/106475?v=3&s=40"
+      }
+    ],
+    "owner": "facebookincubator"
+  },
+  {
+    "name": "WaveFunctionCollapse",
+    "language": "C#",
+    "meta": "2,357 stars this month",
+    "des": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.",
+    "href": "/mxgmn/WaveFunctionCollapse",
+    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "contributors": [
+      {
+        "name": "mxgmn",
+        "avatar": "https://avatars1.githubusercontent.com/u/14931730?v=3&s=40"
+      },
+      {
+        "name": "nanodeath",
+        "avatar": "https://avatars1.githubusercontent.com/u/10625?v=3&s=40"
+      },
+      {
+        "name": "bfontaine",
+        "avatar": "https://avatars0.githubusercontent.com/u/1334295?v=3&s=40"
+      },
+      {
+        "name": "ashleyvargas",
+        "avatar": "https://avatars2.githubusercontent.com/u/15204650?v=3&s=40"
+      },
+      {
+        "name": "Cookingsource",
+        "avatar": "https://avatars3.githubusercontent.com/u/1528174?v=3&s=40"
+      }
+    ],
+    "owner": "mxgmn"
+  }
+]
