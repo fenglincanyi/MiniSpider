@@ -3,7 +3,8 @@ import json
 
 import requests
 
-from util import db_handle
+from util import mongo_util
+from util import mysql_util
 
 # header = {
 #     'X-LC-Prod':'1',
@@ -35,6 +36,6 @@ def request_host():
     print r.text  # python 对象转 json
 
     # db_handle.list_insert('test', 'bbb', data)  # 数据入库
-
+    # mysql_util.
 
 request_host()

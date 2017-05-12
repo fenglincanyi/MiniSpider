@@ -1,7 +1,7 @@
 # coding=utf-8
 import requests
 
-from util import db_handle
+from util import mongo_util
 from util import timer_scheduler
 
 param = {
@@ -49,7 +49,7 @@ def request_host():
         data = r.json()[u'data']  # python 获取 data 数据部分
         # print json.dumps(data) # python 对象转 json
 
-        db_handle.list_insert('test', 'aaa', data)  # 数据入库
+        mongo_util.list_insert('test', 'aaa', data)  # 数据入库
 
         param['page'] += 1 # 页码自增
         count += 1

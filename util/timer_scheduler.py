@@ -1,7 +1,7 @@
 # coding=utf-8
 from apscheduler.schedulers.blocking import BlockingScheduler
 
-import db_handle
+import mongo_util
 
 sched = BlockingScheduler()
 
@@ -14,4 +14,4 @@ def timer(jobName, sec):
 def timer_stop():
     print "===任务停止==="
     sched.shutdown()
-    db_handle.close() # 数据库断开连接
+    mongo_util.close() # 数据库断开连接
