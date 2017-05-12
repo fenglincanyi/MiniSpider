@@ -5,6 +5,7 @@ import requests
 
 from util import mongo_util
 from util import mysql_util
+from transform import github_transform
 
 # header = {
 #     'X-LC-Prod':'1',
@@ -33,9 +34,13 @@ def request_host():
     # github trends app 启动拉取的，本月
     r = requests.get("http://github.laowch.com/json/_monthly")
     # data = r.json()[u'data']  # python 获取 data 数据部分
-    print r.text  # python 对象转 json
+    # print r.text  # python 对象转 json
+
+    result = github_transform.data_transform(r.json())
+
 
     # db_handle.list_insert('test', 'bbb', data)  # 数据入库
-    # mysql_util.
+    mysql_util.insert(result)
+    # mysql_util.create_table()
 
 request_host()
