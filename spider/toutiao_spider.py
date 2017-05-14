@@ -4,6 +4,7 @@ import json
 import requests
 
 from util import mongo_util
+from util import mysql_util
 
 # header = {
 #     'X-LC-Prod':'1',
@@ -64,12 +65,15 @@ param = {
 
 
 def request_host():
-    # 搜索 -> 专栏
     r = requests.get("https://is.snssdk.com/api/news/feed/v53/", params=param, verify=False)
-    # data = r.json()[u'data']  # python 获取 data 数据部分
-    print r.text  # python 对象转 json
+    data = r.json()['data']  # python 获取 data 数据部分
+    # print r.text  # python 对象转 json
 
-    # db_handle.list_insert('test', 'bbb', data)  # 数据入库
+
+    # db_handle.list_insert('test', 'bbb', data)  # 数据入mongodb库
+
+    # mysql_util.create_table()
+    mysql_util.insert(data)  # 数据入库
 
 
 request_host()
