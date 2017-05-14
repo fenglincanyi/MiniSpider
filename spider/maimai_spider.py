@@ -3,6 +3,7 @@ import requests
 
 from util import mongo_util
 from util import timer_scheduler
+from util import mysql_util
 
 param = {
     'u': '37378145',
@@ -46,17 +47,22 @@ def request_host():
     global count
     if count < END_FLAG:
         r = requests.get("https://open.taou.com/maimai/gossip/v3/feed", params=param, verify=False)
-        data = r.json()[u'data']  # python 获取 data 数据部分
+        # data = r.json()[u'data']  # python 获取 data 数据部分
         # print json.dumps(data) # python 对象转 json
 
-        mongo_util.list_insert('test', 'aaa', data)  # 数据入库
+        # mongo_util.list_insert('test', 'aaa', data)  # 数据入库
+        # param['page'] += 1 # 页码自增
+        # count += 1
 
-        param['page'] += 1 # 页码自增
-        count += 1
+        # mysql_util.create_table()
+        mysql_util.insert(r.json()['data'])
 
     else:
         timer_scheduler.timer_stop()
 
 
-timer_scheduler.timer(request_host, 5)
+# timer_scheduler.timer(request_host, 5)
 # timer_scheduler.timer(res, 1)
+
+
+request_host()

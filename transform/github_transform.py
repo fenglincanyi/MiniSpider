@@ -32,5 +32,6 @@ emoji_pattern = re.compile(
     u"(\ud83c[\udde0-\uddff])"  # flags (iOS)
     "+", flags=re.UNICODE)
 
+
 def remove_emoji(text):
     return emoji_pattern.sub(r'', text)
