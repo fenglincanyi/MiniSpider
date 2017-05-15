@@ -4,6 +4,7 @@ import json
 import requests
 
 from util import mongo_util
+from util import mysql_util
 
 header = {
     'X-LC-Prod':'1',
@@ -31,10 +32,13 @@ param = {
 def request_host():
     # 搜索 -> 专栏
     r = requests.get("https://api.leancloud.cn/1.1/classes/Entry", params=param, headers=header, verify=False)
-    # data = r.json()[u'data']  # python 获取 data 数据部分
-    print r.text  # python 对象转 json
+    data = r.json()['results']  # python 获取 data 数据部分
+    # print data
+    # print r.text  # python 对象转 json
 
     # db_handle.list_insert('test', 'bbb', data)  # 数据入库
 
+    # mysql_util.create_table()
+    mysql_util.insert(data)
 
 request_host()
