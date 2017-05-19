@@ -93,7 +93,7 @@ def create_table():
         #                'list_id BIGINT(11) PRIMARY KEY AUTO_INCREMENT NOT NULL,'
         #                'media_info_id BIGINT(11) NOT NULL,'
         #                'list_filter_words_ids VARCHAR(100) NOT NULL,'
-        #                'title NVARCHAR (100) NOT NULL,'
+        #                'title NVARCHAR(100) NOT NULL,'
         #                'abstract NVARCHAR(255) NOT NULL,'
         #                'publish_time long NOT NULL,'
         #                'read_count INT NOT NULL,'
